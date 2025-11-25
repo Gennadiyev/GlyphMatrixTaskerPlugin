@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glyph Matrix Tasker</string>
+
+    <!-- Tasker action labels -->
+    <string name="action_clear_glyph">Clear Glyph Matrix</string>
+    <string name="action_update_glyph">Update Glyph Matrix</string>
+
+    <!-- Tasker input field labels -->
+    <string name="glyph_data_label">Glyph Data</string>
+    <string name="glyph_data_description">625 hex characters (0-F), 25x25 grid. Use Tasker variables like %glyph</string>
+</resources>

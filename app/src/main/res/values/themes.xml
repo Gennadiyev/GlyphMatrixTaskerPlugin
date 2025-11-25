@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GlyphMatrixTasker" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Material You dynamic colors are applied programmatically via Compose -->
+    </style>
+</resources>

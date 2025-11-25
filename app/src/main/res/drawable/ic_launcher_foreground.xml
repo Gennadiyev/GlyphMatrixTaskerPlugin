@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Background grid pattern representing 5x5 (simplified from 25x25) -->
+    <group android:translateX="24" android:translateY="24">
+        <!-- Grid of dots representing the Glyph Matrix -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M6,6 L6,10 L10,10 L10,6 Z
+                              M18,6 L18,10 L22,10 L22,6 Z
+                              M30,6 L30,10 L34,10 L34,6 Z
+                              M42,6 L42,10 L46,10 L46,6 Z
+                              M54,6 L54,10 L58,10 L58,6 Z
+                              M6,18 L6,22 L10,22 L10,18 Z
+                              M18,18 L18,22 L22,22 L22,18 Z
+                              M30,18 L30,22 L34,22 L34,18 Z
+                              M42,18 L42,22 L46,22 L46,18 Z
+                              M54,18 L54,22 L58,22 L58,18 Z
+                              M6,30 L6,34 L10,34 L10,30 Z
+                              M18,30 L18,34 L22,34 L22,30 Z
+                              M30,30 L30,34 L34,34 L34,30 Z
+                              M42,30 L42,34 L46,34 L46,30 Z
+                              M54,30 L54,34 L58,34 L58,30 Z
+                              M6,42 L6,46 L10,46 L10,42 Z
+                              M18,42 L18,46 L22,46 L22,42 Z
+                              M30,42 L30,46 L34,46 L34,42 Z
+                              M42,42 L42,46 L46,46 L46,42 Z
+                              M54,42 L54,46 L58,46 L58,42 Z
+                              M6,54 L6,58 L10,58 L10,54 Z
+                              M18,54 L18,58 L22,58 L22,54 Z
+                              M30,54 L30,58 L34,58 L34,54 Z
+                              M42,54 L42,58 L46,58 L46,54 Z
+                              M54,54 L54,58 L58,58 L58,54 Z" />
+    </group>
+</vector>
